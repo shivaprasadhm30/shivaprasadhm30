@@ -27,7 +27,7 @@
 - AI-Driven Testing and Predictive Analytics (Loop AI for QE)
 - Automation Frameworks (Selenium, Playwright, Rest Assured, Cypress)
 - Contract Testing (Pact, Bi-directional Contract Testing)
-- Service Virtualization (WireMock, Mountebank)
+- Service Virtualization (WireMock, ReadyAPI)
 - Continuous Testing & DevSecOps Quality Gates
 - Enterprise Performance Engineering (JMeter, Gatling)
 - Infrastructure and Configuration Testing for Cloud Migrations (OCI)
