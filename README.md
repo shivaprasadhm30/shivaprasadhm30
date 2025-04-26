@@ -4,10 +4,9 @@
 - 🎯 **Enterprise Test Architect** | **Quality Engineering (QE) Manager** | **AI in QE Strategist** | **Testing CoE Leader**
 - 🏢 Passionate about building scalable, AI-driven, and modern quality engineering frameworks.
 - 🚀 Driving enterprise-wide DevSecOps, Shift-Left Testing, and Continuous Quality transformations.
-- 🤖 Championing AI adoption in testing practices, including Loop AI for predictive quality feedback and automation augmentation.
+-  📊 Building strategies for Microservices Testing, Cloud Migrations (OCI), Gen AI-Powered Testing, and Continuous Performance Engineering.
 - 🏛️ Architecting Testing Centers of Excellence (CoE) to institutionalize best practices, tooling standards, and governance models.
 - 🧑‍🏫 Hosting regular Office Hours to guide teams on test automation, modernization, and AI integration.
-- 📊 Building strategies for Microservices Testing, Cloud Migrations (OCI), Gen AI-Powered Testing, and Continuous Performance Engineering.
 
 ## 🚀 Tech Stack
 
