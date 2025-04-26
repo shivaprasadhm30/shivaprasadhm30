@@ -9,15 +9,16 @@
 - 🧑‍🏫 Hosting regular Office Hours to guide teams on test automation, modernization, and AI integration.
 - 📊 Building strategies for Microservices Testing, Cloud Migrations (OCI), Gen AI-Powered Testing, and Continuous Performance Engineering.
 
-## 🛠️ Tech Stack & Skills
-    ![Java](https://img.shields.io/badge/Java-%23f7b731?style=flat-square&logo=java&logoColor=white)
-    ![Selenium](https://img.shields.io/badge/Selenium-%2344b9f0?style=flat-square&logo=selenium&logoColor=white)
-    ![Jenkins](https://img.shields.io/badge/Jenkins-%23f7b731?style=flat-square&logo=jenkins&logoColor=white)
-    ![JUnit](https://img.shields.io/badge/JUnit-%23ffb6c1?style=flat-square&logo=junit&logoColor=white)
-    ![Playwright](https://img.shields.io/badge/Playwright-%23487d5e?style=flat-square&logo=playwright&logoColor=white)
-    ![Cypress](https://img.shields.io/badge/Cypress-%2331c1e0?style=flat-square&logo=cypress&logoColor=white)
-    ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-%23428bc1?style=flat-square&logo=azuredevops&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-%23f7b731?style=flat-square&logo=javascript&logoColor=white)
+## 🚀 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-%23f7b731?style=flat-square&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2344b9f0?style=flat-square&logo=selenium&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23f7b731?style=flat-square&logo=jenkins&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-%23ffb6c1?style=flat-square&logo=junit&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-%23487d5e?style=flat-square&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-%2331c1e0?style=flat-square&logo=cypress&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-%23428bc1?style=flat-square&logo=azuredevops&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23f7b731?style=flat-square&logo=javascript&logoColor=white)
 
 ## 🛠 Areas of Expertise
 - Test Strategy for Modern Applications and Microservices
