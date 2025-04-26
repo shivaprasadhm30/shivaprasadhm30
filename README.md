@@ -11,14 +11,16 @@
 
 ## 🚀 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-%23f7b731?style=flat-square&logo=java&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-%2344b9f0?style=flat-square&logo=selenium&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23f7b731?style=flat-square&logo=jenkins&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-%23ffb6c1?style=flat-square&logo=junit&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-%23487d5e?style=flat-square&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-%2331c1e0?style=flat-square&logo=cypress&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-%23428bc1?style=flat-square&logo=azuredevops&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23f7b731?style=flat-square&logo=javascript&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-%23f7b731?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+[![Selenium](https://img.shields.io/badge/Selenium-%2344b9f0?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev)
+[![Jenkins](https://img.shields.io/badge/Jenkins-%23f7b731?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io)
+[![JUnit](https://img.shields.io/badge/JUnit-%23ffb6c1?style=for-the-badge&logo=junit&logoColor=white)](https://junit.org)
+[![Playwright](https://img.shields.io/badge/Playwright-%23487d5e?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev)
+[![Cypress](https://img.shields.io/badge/Cypress-%2331c1e0?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io)
+[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-%23428bc1?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23f7b731?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com)
+[![AccelQ](https://img.shields.io/badge/AccelQ-%2397b7cc?style=for-the-badge&logo=accelq&logoColor=white)](https://www.accelq.com)
+
 
 ## 🛠 Areas of Expertise
 - Test Strategy for Modern Applications and Microservices
