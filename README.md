@@ -48,7 +48,7 @@
 - Democratize AI adoption in Quality Engineering through mentorship, office hours, and accessible frameworks.
 
 ## 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivaprasadhm30&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/shiva-prasad-0b91b924/
