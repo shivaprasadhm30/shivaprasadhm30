@@ -15,7 +15,7 @@
 [![Jenkins](https://img.shields.io/badge/Jenkins-%23f7b731?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io)
 [![JUnit](https://img.shields.io/badge/JUnit-%23ffb6c1?style=for-the-badge&logo=junit&logoColor=white)](https://junit.org)
 [![Playwright](https://img.shields.io/badge/Playwright-%23487d5e?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev)
-[![Cypress](https://img.shields.io/badge/Cypress-%2331c1e0?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io)
+[![RestAssured](https://img.shields.io/badge/Cypress-%2331c1e0?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io)
 [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-%23428bc1?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23f7b731?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com)
 [![AccelQ](https://img.shields.io/badge/AccelQ-%2397b7cc?style=for-the-badge&logo=accelq&logoColor=white)](https://www.accelq.com)
