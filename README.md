@@ -54,5 +54,5 @@
 - LinkedIn: https://www.linkedin.com/in/shiva-prasad-0b91b924/
 
 ## 📝 Articles & Publications
-- [Shift-Left and Continuous Testing – Driving Quality Early in SDLC](https://www.linkedin.com/posts/your-article-link](https://www.linkedin.com/pulse/shift-left-continuous-testing-smarter-faster-delivery-shiva-prasad-aenie/?trackingId=%2BXIgijowd5J5UhNGVmhPRw%3D%3D)
+- [Shift-Left and Continuous Testing – Driving Quality Early in SDLC] (https://www.linkedin.com/pulse/shift-left-continuous-testing-smarter-faster-delivery-shiva-prasad-aenie/?trackingId=lW5356WOFSIERqutFE2LRQ%3D%3D)
   *Exploring how early testing practices accelerate delivery and improve software reliability.*
